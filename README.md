@@ -20,9 +20,9 @@ Represents the shipping method chosen for each order. Since no official delivery
 ### 👥 Segment
 Represents the type of customer placing the order:
 
-Consumer — Individual customers buying for personal use
-Corporate — Companies or businesses buying in bulk
-Home Office — Small businesses or individuals working from home
+- Consumer - Individual customers buying for personal use
+- Corporate - Companies or businesses buying in bulk
+- Home Office - Small businesses or individuals working from home
 
 ### 🌍 Location Fields
 | Column | Description |
