@@ -73,125 +73,52 @@ The following new columns were derived from existing data to enable more accurat
 
 ## 📈 Insights from Analysis
 
-### 🛍️ Product Analysis
+## 📊 Key Insights
 
-#### 📊 Category-Level Insights
-- **Technology** is the top-performing category with:
-  - Highest sales contribution
-  - Strongest profit and margins
-  - Minimal losses
+### 🗂️ Product Analysis
 
-- **Office Supplies**
-  - Stable revenue contributor
-  - Moderate profit and margins
-  - Losses ≈ 46% of profit → scope for optimization
+- **Technology** is the top performing category — highest sales, strongest profit margins, minimum losses.
+- **Office Supplies** is a stable revenue driver but losses account for ~46% of its profit.
+- **Furniture** is the weakest category — low profits due to heavy discounting and high losses.
+- Not all Furniture products are loss making — **Chairs** ranks among the **Top 10 most profitable subcategories** company-wide.
+- **Tables** is the single biggest problem within Furniture — removing Tables significantly improves the category's overall profitability.
+- Clear inverse relationship found between **discount and profit** — higher discounts consistently lead to lower profitability.
+- **Binders** holds the highest average discount and is simultaneously the most loss making subcategory — discount is a direct driver of losses.
 
-- **Furniture**
-  - Weakest category
-  - Low profitability despite decent sales
-  - High losses driven by heavy discounting
+> 💡 Losses are not spread across entire categories but concentrated in specific subcategories, driven primarily by heavy discounting.
 
-
-#### 🔍 Sub-Category Insights
-- **Chairs** → High profit contributor (Furniture has potential)
-- **Tables** → Major loss driver in Furniture
-- **Binders** → Highest discount + highest losses
-
-
-#### 🌍 Regional Category Insight
-- **Central Region**
-  - Only loss-making region for Furniture
-  - Loss driven by Tables & Furnishings
-
-- **West Region**
-  - Most profitable
-
-- **East Region**
-  - Second-best performer
-
-
-#### 💡 Discount Impact
-- Strong inverse relationship:
-  - Higher discount → Lower profitability
-- Particularly severe in Furniture
-
-
-> 🔑 **Key Insight (Product):**  
-Profitability issues are concentrated in specific subcategories (e.g., Tables, Binders, Machines), not entire categories.  
-High discounting is a major driver of these losses.
-
+---
 
 ### 🌍 Region Analysis
 
-#### 📊 Revenue & Profitability
-- **West Region**
-  - Highest revenue & profit
-  - Most efficient
+- **West** is the most efficient region — highest revenue, highest profit, controlled losses.
+- **South** is the least profitable region despite moderate sales.
+- **Central** appears to be a loss making region overall — but drilling down reveals that only **2 out of 12+ states** are responsible for the entire region's losses. The rest of the region is profitable.
+- Central's losses are largely driven by **high average discounts** eroding its profit margin.
 
-- **South Region**
-  - Low profitability despite moderate sales
+> 💡 Writing off an entire region based on surface level numbers would be misleading — the problem is concentrated in just 2 states.
 
-
-#### ⚠️ Problem Areas
-- **Central Region**
-  - Highest losses (~11.24% of sales)
-  - Lowest profit margin
-  - High discounting impacting performance
-
-
-#### 👥 Segment Behavior
-- In **West Region**:
-  - Consumer → Main profit driver
-  - Corporate → Strong secondary contributor
-
-
-> 🔑 **Key Insight (Region):**  
-Performance varies significantly by region.  
-West excels due to efficiency, while Central underperforms due to discount-driven losses.
-
+---
 
 ### 👥 Segment Analysis
 
-#### 📊 Revenue & Profitability
-- **Consumer**
-  - Highest sales
-  - Lower relative efficiency
+- **Consumer** segment drives the highest sales and profit but is less efficient — profit is not proportional to its revenue share.
+- **Corporate and Home Office** generate lower sales but achieve more proportionate profit — better efficiency per sale.
+- Discount levels are consistent across all segments — discounting is not a differentiating factor between customer types.
 
-- **Corporate & Home Office**
-  - Lower sales
-  - Better profit proportionality
+> 💡 High volume does not always mean high efficiency — Corporate and Home Office outperform Consumer in profit proportionality.
 
-
-#### 📈 Demand Behavior
-- Consumer dominance driven by higher purchase volume
-
-
-> 🔑 **Key Insight (Segment):**  
-Consumer drives revenue, while Corporate and Home Office deliver better efficiency.  
-Discount levels remain consistent across segments.
-
+---
 
 ### 🚚 Ship Mode Analysis
 
-#### 📊 Profitability & Volume
-- **Standard Class**
-  - Highest usage
-  - Highest total profit (volume-driven)
+- **Standard Class** dominates in both order volume and profit — but this is a volume effect, not an efficiency indicator.
+- **Same Day delivery** contributes minimally due to low demand and higher shipping costs eating into margins.
+- Standard Class is the most preferred and Same Day the least preferred shipping mode across all three customer segments.
 
-- **Same Day**
-  - Lowest usage
-  - Lowest profit (high cost, low demand)
+> 💡 Shipping mode performance is driven by customer preference, not operational efficiency.
 
-
-#### 📦 Segment Preference
-- Standard Class → Most preferred across all segments
-- Same Day → Least preferred consistently
-
-
-> 🔑 **Key Insight (Shipping):**  
-Shipping performance is driven by demand patterns.  
-Standard Class dominates due to cost efficiency, while faster options see low adoption.
-
+---
 
 ## ✅ Final Conclusion
 The analysis reveals that profitability challenges are not widespread but concentrated in specific subcategories, regions, and operational decisions—particularly discounting strategies.  
