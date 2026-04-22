@@ -80,7 +80,7 @@ The following new columns were derived from existing data to enable more accurat
 - **Office Supplies** is a stable revenue driver but losses account for ~46% of its profit.
 - **Furniture** is the weakest category - low profits due to heavy discounting and high losses.
 - Not all Furniture products are loss making - **Chairs** ranks among the **Top 10 most profitable subcategories** company-wide.
-- **Tables** is the single biggest problem within Furniture - removing Tables significantly improves the category's overall profitability.
+- **Tables** is the biggest problem within Furniture - removing Tables significantly improves the category's overall profitability.
 - Clear inverse relationship found between **discount and profit** - higher discounts consistently lead to lower profitability.
 - **Binders** holds the highest average discount and is simultaneously the most loss making subcategory - discount is a direct driver of losses.
 
